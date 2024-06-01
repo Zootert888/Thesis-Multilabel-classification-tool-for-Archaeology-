@@ -80,6 +80,11 @@ Files
 2. Run the script using Python.
 3. The script will generate more CSV files and the final classification results.
 
+Credit (apa 7)
+Brandsen, A., & Koole, M. (2022). Labelling the past: Data set creation and multi-label classification of Dutch archaeological excavation reports. Language Resources and Evaluation, 56(2), 543–572. https://doi.org/10.1007/s10579-021-09552-6
+
+Wijaya, C. Y. (2023). Multilabel classification: An introduction with Python's Scikit-Learn. KDnuggets. Retrieved from https://www.kdnuggets.com/multilabel-classification-an-introduction-with-pythons-scikit-learn
+
  License 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
